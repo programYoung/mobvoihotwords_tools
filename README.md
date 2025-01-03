@@ -4,5 +4,7 @@ Make sure you have the kaldi tool installed before using it.
 
 
 Use the following command to merge the compressed files
-#!/bin/bash
+
+'''bash
 cat mobvoihotwords_tools_*.part > mobvoihotwords_tools.tar.gz
+'''
